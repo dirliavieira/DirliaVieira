@@ -1,7 +1,7 @@
 ### Ooi! Eu sou a Dirlia Vieira 😊
 
 - 📚 Estudante de Ciência da Computação
-- 🌱 Estou aprendendo...
+- 🌱 Sempre aprendendo mais um pouco de tudo
 - 😄 Pronomes: Ela/Dela
 
 <div align="">
