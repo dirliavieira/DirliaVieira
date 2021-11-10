@@ -2,7 +2,7 @@
 
 - 📚 Estudante de Ciência da Computação
 - 🌱 Sempre buscando aprender um pouco mais
-- 😄 Pronomes: Ela/Dela
+- 💜 ...
 
 <div align="">
   <a href="https://github.com/DirliaVieira">
