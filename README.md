@@ -4,10 +4,10 @@
 - 🌱 Sempre buscando aprender um pouco mais
 - 💜 ...
 
-<div align="justify">
+<div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" left="120em" src="https://github-readme-stats.vercel.app/api?username=DirliaVieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirliaVieira&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DirliaVieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirliaVieira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <div style="display: inline_block"><br>
