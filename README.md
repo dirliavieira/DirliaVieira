@@ -1,7 +1,7 @@
-### Ooi! Eu sou a Dirlia Vieira 😊
+### Hi! I'm Dirlia Vieira 😊
 
-- 📚 Estudante de Ciência da Computação
-- 🌱 Sempre buscando aprender um pouco mais
+- 📚 Computer Science student
+- 🌱 Always looking to learn a little more
 - 💜 ...
 
 <div align="">
